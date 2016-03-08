@@ -1,8 +1,8 @@
 {
     "name": "joi",
     "description": "Object schema validation",
-    "repos": "https://github.com/hapijs/joi",
-    "main": "index",
+    "repos": "https://github.com/hapijs/joi.git",
+    "main": "lib/index.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
@@ -11,5 +11,5 @@
         "isemail": "1.x.x",
         "moment": "2.x.x"
     },
-    "version": "6.4.2"
+    "version": "6.4.3"
 }
