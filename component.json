@@ -6,10 +6,10 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "hoek": "^2.2.x",
+        "hoek": "2.x.x",
         "topo": "1.x.x",
         "isemail": "1.x.x",
         "moment": "2.x.x"
     },
-    "version": "6.8.1"
+    "version": "6.9.0"
 }
